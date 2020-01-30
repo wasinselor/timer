@@ -1,0 +1,7 @@
+{
+  "name": "Taekwondo_referee",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
